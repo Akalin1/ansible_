@@ -1,6 +1,6 @@
 ```
 pipx install ansible
-cd kali-ansible
+cd ansible_
 ansible-galaxy install -r requirements.yml
 ansible-playbook main.yml
 ```
